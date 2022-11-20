@@ -1,0 +1,7 @@
+package com.sales.dsmeta.entitys;
+
+public class Sale {
+	
+	public long id;
+
+}

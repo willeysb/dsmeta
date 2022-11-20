@@ -1,0 +1,5 @@
+package com.sales.dsmeta.entitys;
+
+public class Sale {
+
+}

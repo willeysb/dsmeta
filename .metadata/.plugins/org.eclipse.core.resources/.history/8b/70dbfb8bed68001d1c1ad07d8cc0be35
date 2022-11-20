@@ -1,0 +1,15 @@
+package com.sales.dsmeta.entities;
+
+import java.util.Date;
+
+public class Sale {
+	
+	public long id;
+	public String sellerName;
+	public Integer visited;
+	public Integer deals;
+	public Double amount;
+	public Date date;
+	
+
+}
