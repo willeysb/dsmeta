@@ -1,0 +1,5 @@
+package com.sales.dsmeta.config;
+
+public class SecutityConfig {
+
+}
