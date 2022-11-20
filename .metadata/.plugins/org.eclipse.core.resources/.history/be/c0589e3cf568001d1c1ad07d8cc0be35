@@ -1,0 +1,5 @@
+package com.sales.dsmeta.controllers;
+
+public class SaleController {
+
+}

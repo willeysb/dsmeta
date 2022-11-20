@@ -1,0 +1,12 @@
+package com.sales.dsmeta.services;
+
+import org.springframework.beans.factory.annotation.Autowired;
+
+import com.sales.dsmeta.repositories.SaleRepository;
+
+public class SaleService {
+	
+	@Autowired
+	private SaleRepository repository;
+
+}
