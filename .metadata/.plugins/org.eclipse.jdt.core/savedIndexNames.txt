@@ -93,7 +93,6 @@ INDEX VERSION 1.131+C:\Desenvolvimento\devsuperior\.metadata\.plugins\org.eclips
 3197715424.index
 3539722710.index
 1972393445.index
-1965174767.index
 1126714847.index
 1210103979.index
 182333986.index
