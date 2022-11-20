@@ -1,7 +1,0 @@
-package com.sales.dsmeta.entities;
-
-public class Sale {
-	
-	public long id;
-
-}
