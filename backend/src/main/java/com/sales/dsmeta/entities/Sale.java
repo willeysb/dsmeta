@@ -15,13 +15,13 @@ public class Sale {
 	
 	@Id
 	@GeneratedValue(strategy = GenerationType.IDENTITY)
-	public long id;
+	private long id;
 	
-	public String sellerName;
-	public Integer visited;
-	public Integer deals;
-	public Double amount;
-	public LocalDate date;
+	private String sellerName;
+	private Integer visited;
+	private Integer deals;
+	private Double amount;
+	private LocalDate date;
 	
 	public Sale() {
 		super();
